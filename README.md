@@ -21,4 +21,4 @@ Docs & guides: https://chimera-tool-vault.softyx.xyz
 ## ⚡ Key Features
 1. **Security Bypass:** Tools for lock screen, activation, and carrier restriction removal.
 2. **File Manager:** Full filesystem access with root-level read and write permissions.
-3. **Script Runner:** Execute automation scripts and scheduled tasks on the device. 
+3. **Script Runner:** Execute automation scripts and scheduled tasks on the device.  
